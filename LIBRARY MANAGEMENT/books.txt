@@ -1,0 +1,12 @@
+NAME OF THE BOOK:-  TOC
+NAME OF THE AUTHOR:-  R.Patra
+NUMBER OF BOOKS AVAILABLE:-  20
+_______________________________
+NAME OF THE BOOK:-  DAA
+NAME OF THE AUTHOR:-  I.Samanta
+NUMBER OF BOOKS AVAILABLE:-  20
+_______________________________
+NAME OF THE BOOK:-  Theory of Everything
+NAME OF THE AUTHOR:-  Stephen Ruddranil Patra
+NUMBER OF BOOKS AVAILABLE:-  100
+_______________________________
