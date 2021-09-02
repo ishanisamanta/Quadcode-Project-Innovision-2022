@@ -31,3 +31,6 @@
 
 <h2>What's next for Library Management System</h2>
  <p> We are hoping to extend this feature to every library or book bank and eliminate the need of maintaining manual database. We will soon add more books and advanced features for our user to keep them updated about new books available in the market.</p>
+
+<h2>Contributor</h2>
+ Sutanu Chakraborty
